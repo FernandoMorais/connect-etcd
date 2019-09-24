@@ -20,9 +20,6 @@
     "node-etcd": "^2.1.4",
     "express-session": "^1.7.6"
   },
-  "devDependencies": {
-    "express-session": "*"
-  },
   "engines": {
     "node": "*"
   }
