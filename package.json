@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ryantomlinson/connect-etcd",
   "dependencies": {
-    "express-session": "1.16.2",
+    "express-session": "1.17.1",
     "node-etcd": "7.0.0"
   },
   "engines": {
